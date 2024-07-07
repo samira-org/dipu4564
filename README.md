@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-dipu4564/dipu4564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+samira88/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
